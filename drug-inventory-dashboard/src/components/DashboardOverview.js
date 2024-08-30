@@ -23,9 +23,9 @@ function DashboardOverview() {
         <div className="bg-white p-4 rounded shadow">
           <h3 className="text-lg font-bold">Upcoming Expirations</h3>
           <ul>
-            <li>Drug A - 10/10/2024</li>
-            <li>Drug B - 12/12/2024</li>
-            <li>Drug C - 01/01/2025</li>
+            <li>Drug A - dates</li>
+            <li>Drug B - dates</li>
+            <li>Drug C - dates</li>
           </ul>
         </div>
         <div className="bg-white p-4 rounded shadow">

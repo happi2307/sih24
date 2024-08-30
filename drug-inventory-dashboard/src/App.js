@@ -1,5 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import React from 'react';
+import Header from './components/Header';
+import HeroSection from './components/HeroSection';
+import DashboardOverview from './components/DashboardOverview';
+import RecentActivity from './components/RecentActivity';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -35,13 +41,7 @@ function App() {
       </div></>
   );
 }
+export default App;
 
-// src/App.js
-import React from 'react';
-import Header from './components/Header';
-import HeroSection from './components/HeroSection';
-import DashboardOverview from './components/DashboardOverview';
-import RecentActivity from './components/RecentActivity';
-import Footer from './components/Footer';
 
 

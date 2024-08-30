@@ -8,7 +8,7 @@ function HeroSection() {
       <div className="grid grid-cols-3 gap-4">
         <div className="bg-white p-4 rounded shadow">
           <h2 className="text-lg font-bold">Total Inventory Value</h2>
-          <p className="text-2xl">$1,234,567</p>
+          <p className="text-2xl">value here</p>
         </div>
         <div className="bg-white p-4 rounded shadow">
           <h2 className="text-lg font-bold">Critical Alerts</h2>
