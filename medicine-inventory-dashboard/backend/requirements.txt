@@ -1,0 +1,15 @@
+Flask
+Flask-RESTful
+Flask-CORS
+SQLAlchemy
+Flask-Migrate
+PyJWT
+pandas
+numpy
+flask_sqlalchemy
+flask_marshmallow
+matplotlib
+scikit-learn
+tensorflow
+gunicorn
+marshmallow-sqlalchemy
