@@ -13,3 +13,5 @@ scikit-learn
 tensorflow
 gunicorn
 marshmallow-sqlalchemy
+prophet
+datetime
